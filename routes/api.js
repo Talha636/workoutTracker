@@ -1,7 +1,7 @@
 const router = require("express").Router();
 const Workout = require("../models/Workout");
 
-router.get('/', async (req, res) => {
+router.get('/api/workouts', async (req, res) => {
   try {
     const workout = await Workout.aggregate([
       { $addFields: {
@@ -18,9 +18,10 @@ router.get('/', async (req, res) => {
 
 router.post('/api/workouts', async (req, res) => {
   try {
-    const workout = await Workout.create({ exercises: req.body });
+    const workout = await Workout.create({});
     res.status(200).json(workout);
   } catch (err) {
+    console.log(err);
     res.status(500).json(err);
   }
 });
