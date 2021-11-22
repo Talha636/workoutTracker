@@ -41,7 +41,6 @@ https://github.com/Talha636/workout_tracker
 
 
 ## Screenshots
-<img width="1440" alt="Screen Shot 2021-11-21 at 21 27 30" src="https://user-<img width="1440" alt="Screen Shot 2021-11-21 at 21 27 10" src="https://user-images.githubusercontent.com/85548877/142792173-3c678799-465a-497f-b314-d8bcac2b3c2b.png">
-images.githubusercontent.com/85548877/142792157-f43f1ea9-ba6d-41aa-9919-e59c054182f0.png">
+<img width="1440" alt="Screen Shot 2021-11-21 at 21 27 10" src="https://user-images.githubusercontent.com/85548877/142792173-3c678799-465a-497f-b314-d8bcac2b3c2b.png">
 
-
+<img width="1440" alt="Screen Shot 2021-11-21 at 21 27 30" src="https://userimages.githubusercontent.com/85548877/142792157-f43f1ea9-ba6d-41aa-9919-e59c054182f0.png">
